@@ -6,6 +6,19 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>hello world</h2>
+    <h2>Fruit name</h2>
+    <p id="ls"> </p>
+    <script>
+    let array=['mango','banana','apple','chiku']
+    let text = "<ul>";
+   for (let i=0;i<array.length;i++){
+       text+= "<li>"+array[i]+"</li>";
+   }
+   
+   text = "</ul>";
+
+   document.getElementById('ls').innerHTML=text
+</script>
+
 </body>
 </html>
