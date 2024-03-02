@@ -35,7 +35,7 @@ let fname="roli";
  //in const variable we can not write same variable name again and not give the same value again
 
 
- const fruit="apple";
+ const flower="apple";
  console.log(fruit);
 
 
