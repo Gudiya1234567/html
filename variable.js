@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 //in var we can declre and initialize the variable with the same variable name
 
@@ -39,7 +39,6 @@ let fname="roli";
  console.log(fruit);
 
 
-=======
 
 //in var we can declre and initialize the variable with the same variable name
 
@@ -79,5 +78,3 @@ let fname="roli";
  const fruit="apple";
  console.log(fruit);
 
-
->>>>>>> a890e857f20d1a3699113b7c2ea2f9a00dca6370
