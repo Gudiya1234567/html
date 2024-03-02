@@ -38,17 +38,35 @@
 // console.log(str)
 
 
-let arr={
-    Name:"roli",
-    surname:"singh",
-    age:12,
+// let arr={
+//     Name:"roli",
+//     surname:"singh",
+//     age:12,
 
-    address:function(){
-       let b=["mumbai",401394,true]
-       b.push(23)
-       return b
+//     address:function(){
+//        let b=["mumbai",401394,true]
+//        b.push(23)
+//        return b
+//     }
+// }
+
+// let a=arr.address()
+// console.log(a)
+
+
+let obj={
+    name:"gudiya",
+    lname:"vishwakarma",
+ education:function(){
+        let arr2=["ssc","hsc","graduation",23]
+        size=arr2.length
+        arr2.push("hello")
+        
+        return arr2
+
     }
-}
 
-let a=arr.address()
-console.log(a)
+}
+let p=obj.education()
+console.log(p)
+console.log(size)
