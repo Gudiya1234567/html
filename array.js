@@ -70,3 +70,10 @@ let obj={
 let p=obj.education()
 console.log(p)
 console.log(size)
+
+
+
+
+let fruits=[1,3,5,6,9]
+let s=fruits.toString()
+console.log(s)
