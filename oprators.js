@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 let tshirt=300;
 let jeans=500;
 
@@ -26,7 +26,7 @@ console.log(divide)
 
 let modulous=900%7
 console.log(modulous);
-=======
+
 let tshirt=300;
 let jeans=500;
 
@@ -54,4 +54,4 @@ console.log(divide)
 
 let modulous=900%7
 console.log(modulous);
->>>>>>> a890e857f20d1a3699113b7c2ea2f9a00dca6370
+a890e857f20d1a3699113b7c2ea2f9a00dca6370
